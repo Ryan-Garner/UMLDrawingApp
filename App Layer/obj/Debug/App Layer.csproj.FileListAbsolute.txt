@@ -1,0 +1,9 @@
+C:\Users\itcl\Documents\Visual Studio 2017\Projects\UML Drawing App\App Layer\bin\Debug\App Layer.dll
+C:\Users\itcl\Documents\Visual Studio 2017\Projects\UML Drawing App\App Layer\bin\Debug\App Layer.pdb
+C:\Users\itcl\Documents\Visual Studio 2017\Projects\UML Drawing App\App Layer\obj\Debug\App Layer.dll
+C:\Users\itcl\Documents\Visual Studio 2017\Projects\UML Drawing App\App Layer\obj\Debug\App Layer.pdb
+C:\Users\itcl\Desktop\UML Drawing App\UML Drawing App\App Layer\bin\Debug\App Layer.dll
+C:\Users\itcl\Desktop\UML Drawing App\UML Drawing App\App Layer\bin\Debug\App Layer.pdb
+C:\Users\itcl\Desktop\UML Drawing App\UML Drawing App\App Layer\obj\Debug\App Layer.csprojResolveAssemblyReference.cache
+C:\Users\itcl\Desktop\UML Drawing App\UML Drawing App\App Layer\obj\Debug\App Layer.dll
+C:\Users\itcl\Desktop\UML Drawing App\UML Drawing App\App Layer\obj\Debug\App Layer.pdb

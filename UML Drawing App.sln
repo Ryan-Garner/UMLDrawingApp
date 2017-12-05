@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UML Drawing App", "UML Drawing App\UML Drawing App.csproj", "{F707BC46-DF3E-43B2-9156-1663F63F93DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App Layer", "App Layer\App Layer.csproj", "{E4ED5FB0-1208-4037-B35C-5EE983B54438}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F707BC46-DF3E-43B2-9156-1663F63F93DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F707BC46-DF3E-43B2-9156-1663F63F93DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F707BC46-DF3E-43B2-9156-1663F63F93DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F707BC46-DF3E-43B2-9156-1663F63F93DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4ED5FB0-1208-4037-B35C-5EE983B54438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4ED5FB0-1208-4037-B35C-5EE983B54438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4ED5FB0-1208-4037-B35C-5EE983B54438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4ED5FB0-1208-4037-B35C-5EE983B54438}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
